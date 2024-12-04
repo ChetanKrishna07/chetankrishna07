@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chetan Krishna</h1>
 <h3 align="center">Passionate about Deep Learning and anything else.</h3>
 
-- 🌱 I’m currently learning **Large Language Model, Generative AI, Elastic Stack**
+- 🌱 I’m currently learning **Large Language Model, Generative AI**
 
 - 💬 Ask me about **Neural Networks, Machine Learning, APIs...**
 
